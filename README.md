@@ -1,4 +1,6 @@
-# EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
+#### NAME: POZHILAN V D
+#### REG.NO. 212223240118
+# EXPERIMENT 07-SQUARE WAVE GENERATION AT THE OUTPUT PIN USINGTIMER
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
