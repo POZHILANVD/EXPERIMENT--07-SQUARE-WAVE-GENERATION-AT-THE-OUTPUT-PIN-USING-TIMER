@@ -1,6 +1,6 @@
 #### NAME: POZHILAN V D
 #### REG.NO. 212223240118
-# EXPERIMENT 07-SQUARE WAVE GENERATION AT THE OUTPUT PIN USINGTIMER
+# EXPERIMENT 06-SQUARE WAVE GENERATION AT THE OUTPUT PIN USINGTIMER
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
@@ -201,41 +201,35 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 
 ```
-
-## Output screen shots of proteus  :
- 
- ![Screenshot 2024-04-27 221423](https://github.com/POZHILANVD/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870498/c0fbc789-c40e-4982-af7c-bbcf979bcca6)
-
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
-![Screenshot 2024-04-27 221532](https://github.com/POZHILANVD/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870498/f462e238-da19-4a7a-8b60-c10e0a00fb67)
-
-
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 50%
 ![Screenshot 2024-04-27 213641](https://github.com/POZHILANVD/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870498/5d8bede8-b099-4dda-899e-137ea17638bd)
 
-TON = 0.6 ms
-TOFF= 0.6 ms
-TOTAL TIME = 1.2 ms
-FREQUENCY = 1/(1.2) = 0.833 Hz
+#### TON = 0.6 ms
+#### TOFF= 0.6 ms
+#### TOTAL TIME = 1.2 ms
+#### FREQUENCY = 1/(1.2) = 0.833 Hz
 
-FOR PULSE AT 70%
+### FOR PULSE AT 70%
 ![Screenshot 2024-04-27 215040](https://github.com/POZHILANVD/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870498/18a16fec-ab0e-4fea-9719-becf46a2a87c)
 
-TON = 0.92 ms
-TOFF= 0.38 ms
-TOTAL TIME = 1.3 ms
-FREQUENCY = 1/(1.3) =0.769 Hz
+#### TON = 0.92 ms
+#### TOFF= 0.38 ms
+#### TOTAL TIME = 1.3 ms
+#### FREQUENCY = 1/(1.3) =0.769 Hz
 
-FOR PULSE AT 90%
+### FOR PULSE AT 90%
 ![Screenshot 2024-04-27 215247](https://github.com/POZHILANVD/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870498/e9708c7d-723b-440f-835b-67b55e991b95)
 
-TON = 1.12 ms
-TOFF= 0.16 ms
-TOTAL TIME = 1.28 ms
-FREQUENCY = 1/(1.28) = 0.781 Hz
+#### TON = 1.12 ms
+#### TOFF= 0.16 ms
+#### TOTAL TIME = 1.28 ms
+#### FREQUENCY = 1/(1.28) = 0.781 Hz
 
+## Output screen shots of proteus  :
+ ![Screenshot 2024-04-27 221423](https://github.com/POZHILANVD/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870498/c0fbc789-c40e-4982-af7c-bbcf979bcca6)
+ ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):  
+![Screenshot 2024-04-27 221532](https://github.com/POZHILANVD/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/144870498/f462e238-da19-4a7a-8b60-c10e0a00fb67)
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
